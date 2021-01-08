@@ -1,0 +1,7 @@
+{
+  "allowDirectMerges": [
+    "README.md"
+  ],
+  "allowBotCommands": false,
+  "internalRepository": "fbobjc"
+}
